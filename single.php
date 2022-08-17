@@ -1,5 +1,9 @@
 <?php
-    the_title();
+get_header();
 
-    the_content();
+the_title();
+
+the_content();
+
+get_footer();
 ?>
